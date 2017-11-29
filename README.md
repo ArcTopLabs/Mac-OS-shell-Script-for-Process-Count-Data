@@ -11,5 +11,5 @@ ArcTop Labs : MasterDataNode Data Solution
 <p>Copy and Replace the access_token (available in your login) against ####ACCESSTOKEN###### string on .sh file</p>
             
 
-![alt text](https://github.com/ArcTopLabs/Mac-OS-shell-Script-for-Greeting-Data/blob/master/screenshot/find%20request%20greeting%20using%20get%20post.png)
-![alt text](https://github.com/ArcTopLabs/Mac-OS-shell-Script-for-Greeting-Data/blob/master/screenshot/listing%20request%20greeting.png)
+![alt text](https://github.com/ArcTopLabs/Mac-OS-shell-Script-for-Process-Count-Data/blob/master/screenshot/process%20data%20post.png)
+![alt text](https://github.com/ArcTopLabs/Mac-OS-shell-Script-for-Process-Count-Data/blob/master/screenshot/process%20data%20listing.png)
